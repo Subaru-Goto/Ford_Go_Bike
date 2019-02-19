@@ -1,10 +1,12 @@
 # Ford_Go_Bike
 ### by Subaru Goto
-<p></p>
-This is a part of Udacity Nanodegree project. This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. * This is important to note that as there is no user id information. Therefore, many observations can stem from the same users.
-<p></p>
+
+This is a part of Udacity Nanodegree project. This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. * This is important to note that there is no user id information in the data set. Therefore, many observations can stem from the same users.
+
 Programming language: Python
+
 Time frame: January 2017 to December 2018.
+
 Module: numpy, pandas, matplotlib, seaborn, glob and folium
 
 ### Data structure
