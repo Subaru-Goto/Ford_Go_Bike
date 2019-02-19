@@ -7,7 +7,7 @@ Programming language: Python
 Time frame: January 2017 to December 2018.
 Module: numpy, pandas, matplotlib, seaborn, glob and folium
 <p></p>
-## Data structure
+##Data structure
 <p></p>
 There are 2383421 observations in total and 16 columns.
 ### Variables
